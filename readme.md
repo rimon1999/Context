@@ -1,3 +1,14 @@
+# Language Hub
+
+Language Hub is an AI-driven language learning application designed to offer a personalized and interactive experience. It uses generative AI technology to create engaging, real-time conversational dialogues in various languages, helping users enhance their language skills through practical and immersive interactions.
+
+## Key Features
+
+- **Animated Landing Page:** An engaging landing page with moving text and a progress bar that represents task completion.
+- **Secure Login/Register:** Authentication and data management via Firebase ensure secure handling and storage of user credentials.
+- **Image-to-Text Translation:** Utilizes Google Cloud Vision API to extract text from images, enhancing learning through visual aids.
+- **Text Translation:** Provides translations in multiple languages using Google Generative AI with an intuitive interface for easy input and language selection.
+- **Conversation-Based Learning:** Facilitates real-time chat with an AI model in various languages and includes text-to-speech functionality for improved listening and pronunciation skills.
 ---
 ## Installation
 To install and set up the Context project, follow these steps
